@@ -40,5 +40,9 @@ email: (pconsagra@g.ucla.edu)
 
 Github: (https://github.com/pcon27)
     
-
 link to site: (https://mysterious-reef-83008.herokuapp.com)
+
+![alt text](https://github.com/Pcon27/note_taker_2/blob/eed9debf4c4c2aff5624229428908357394921bb/storeJS.png)
+
+![alt text](https://github.com/Pcon27/note_taker_2/blob/eed9debf4c4c2aff5624229428908357394921bb/ServerJS.png)
+
