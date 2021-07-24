@@ -4,12 +4,12 @@ const uniqid = require('uniqid');
 
 console.log(uniqid()); // -> 4n5pxq24kpiob12og9
 
-// GET Route for retrieving all the tips
+
 notes.get('/', (req, res) => {
   readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)));
 });
 
-// POST Route for a new UX/UI tip
+
 notes.post('/', (req, res) => {
   console.log(req.body);
 
